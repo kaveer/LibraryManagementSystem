@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AetlfpZqrEUHxycWsWYyzOifkEH6W/IVBTD4q6HyX9b/y07ycm+0IMXT9HeQjGyzMuVGCRjYkXhw2pX2IDTWFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sd377186\\source\\repos\\CSharpe\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://proget/nuget/SDWorxNuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
